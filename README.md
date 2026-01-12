@@ -83,6 +83,8 @@ Strong understanding of **NIST-aligned incident response**, SIEM detections, and
 - ☁️ IBM – Cloud Computing  
 - 🧠 D-Wave – Quantum Computing  
 - 🔍 Tata – Cybersecurity Analyst (Forage)
+- 🧮 Deloitte - Cyber Job Simulation (Forage)
+- 🚀 Telstra - Cybersecurity and Security Operations Center Simulation (Forage)
 
 ---
 
