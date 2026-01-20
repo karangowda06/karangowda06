@@ -32,7 +32,7 @@ Strong understanding of **NIST-aligned incident response**, SIEM detections, and
 - 🪟 Windows Event Log Analysis  
 - 🐧 Linux Artifact Analysis  
 - 🧬 Malware & Post-Incident Analysis  
-- ⛓️ Evidence Integrity & Chain of Custody  
+- ⛓️ Evidence Integrity & Chain of Custody 
 
 ---
 
@@ -70,7 +70,8 @@ Strong understanding of **NIST-aligned incident response**, SIEM detections, and
 - 🧾 **Metadata Eraser Tool (Data Leakage Prevention)**  
 - 🧮 **Custom Hash Generator (Multi-Algorithm)**  
 - 🔌 **USB Monitoring & Logging Tool**  
-- ⛓️ **Blockchain-Based Evidence Integrity System (Ongoing)**  
+- ⛓️ **Blockchain-Based Evidence Integrity System (Ongoing)**
+- 🖥️ SOC Home Lab Setup - Wazuh SIEM 
 
 📌 *All projects are designed around real SOC & DFIR use cases.*
 
