@@ -1,106 +1,144 @@
-## 👋 Hi, I'm Karan Gowda
+# 👋 Hi, I'm Karan Gowda
 
-🛡️ **SOC Analyst | DFIR | Blue Team**  
+🛡️ **SOC Analyst | DFIR | Blue Team | GRC-Aware**  
 🎓 **MSc Digital Forensics & Information Security**  
 📍 Bengaluru, India  
 
-> I hunt threats, investigate incidents, and turn logs into evidence.
+> *I don’t chase alerts — I investigate them.*
 
 ---
 
-## 🚨 SOC & DFIR PROFILE
-Entry-level **SOC / DFIR professional** with hands-on experience in **security monitoring, alert triage, endpoint investigations, and forensic analysis**.  
-Strong understanding of **NIST-aligned incident response**, SIEM detections, and evidence handling across Windows and Linux systems.
+## 🚨 PROFESSIONAL SUMMARY
 
-🔵 **Actively targeting SOC Analyst / Blue Team / DFIR roles**
+Entry-level **SOC Analyst and DFIR professional** with hands-on experience in **security monitoring, alert triage, endpoint investigations, and digital forensics**.  
+Strong foundation in **NIST-aligned incident response**, **SIEM operations**, and **forensic evidence handling** across Windows and Linux environments.  
+Possess **GRC awareness** to support **audit-ready incident handling, policy alignment, and compliance-driven security operations**.
+
+Actively seeking **SOC Analyst / Blue Team / DFIR roles**.
+
+---
+## 🏢 EXPERIENCE
+
+**Cybersecurity Intern — Infotact Solutions**  
+Nov 2025 – Feb 2026 | Bengaluru  
+- SIEM monitoring, alert triage, and log analysis  
+- Incident response documentation aligned with NIST  
+
+**Digital Forensics Intern — Kannur Police Station**  
+May 2024 – Jun 2024 | Kerala  
+- Disk analysis, evidence handling, and forensic reporting  
+
+**SOC L1 & SDE Intern — Zefender Innovations Pvt. Ltd.**  
+Jan 2026 – Apr 2026 | Bengaluru  
+- SOC L1 alert monitoring and endpoint investigations
 
 ---
 
-## 🔥 CORE DEFENSIVE CAPABILITIES
-- 🚨 SIEM Monitoring & Alert Triage  
-- 📊 Log Analysis & Event Correlation  
-- 🧩 Incident Detection & Initial Response  
-- 🖥️ EDR & Endpoint Investigations  
-- 🔍 Threat Hunting & IOC Analysis  
-- 🧾 Incident Reporting & Documentation  
-- ⚖️ Digital Evidence Collection & Preservation  
+## 🛡️ SOC SKILLS (Security Operations Center)
+
+- SIEM monitoring and alert triage  
+- Event correlation and log analysis (Windows & Linux)  
+- Detection of suspicious and malicious activity  
+- Initial incident classification and prioritization  
+- False positive analysis and basic alert tuning  
+- Endpoint investigations using EDR telemetry  
+- IOC identification and validation  
+- Incident escalation following SOC playbooks  
+- Security incident documentation  
+- 24x7 SOC L1 operational workflows  
 
 ---
 
-## 🧠 DFIR SPECIALIZATION
-- 💾 Disk & Memory Forensics  
-- 🪟 Windows Event Log Analysis  
-- 🐧 Linux Artifact Analysis  
-- 🧬 Malware & Post-Incident Analysis  
-- ⛓️ Evidence Integrity & Chain of Custody 
+## 🔍 DFIR SKILLS (Digital Forensics & Incident Response)
+
+- Disk forensics and file system analysis  
+- Memory forensics and process investigation  
+- Windows event logs and forensic artifact analysis  
+- Linux artifact and timeline analysis  
+- Malware triage and post-incident analysis  
+- Digital evidence acquisition and preservation  
+- Hashing and integrity verification  
+- Chain of custody maintenance  
+- Forensic reporting for legal and internal use  
+- Post-incident root cause analysis  
 
 ---
 
-## 🛠️ SOC & DFIR TOOLSTACK
+## 🧩 GRC SKILLS (Governance, Risk & Compliance)
 
-### 🔵 SIEM & EDR
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FC0000?style=flat&logo=crowdstrike)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat)
-
-### 🔍 Forensics & IR
-![Autopsy](https://img.shields.io/badge/Autopsy-1E1E1E?style=flat)
-![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=flat)
-![FTK](https://img.shields.io/badge/FTK-003366?style=flat)
-![EnCase](https://img.shields.io/badge/EnCase-003A8F?style=flat)
-
-### 🌐 Network & Security
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat)
-
-### ⚙️ Scripting & Platforms
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell)
+- Understanding of information security policies and procedures  
+- Familiarity with security frameworks and regulatory standards  
+- Incident response alignment with governance requirements  
+- Risk assessment fundamentals and control awareness  
+- Audit-ready incident and forensic documentation  
+- Compliance-driven logging and retention awareness  
+- Evidence handling aligned with legal and regulatory needs  
+- Supporting internal and external audits (SOC context)  
+- Translating technical findings into compliance language  
+- Basic security control mapping and gap awareness  
 
 ---
 
-## 🧪 ACTIVE & FEATURED PROJECTS
-🚀 *(Auto-updated as I push code)*
+## 🛠️ TOOLS & TECHNOLOGIES
 
-- 🔐 **AES Encryption & Decryption Tool**  
-- 🧾 **Metadata Eraser Tool (Data Leakage Prevention)**  
-- 🧮 **Custom Hash Generator (Multi-Algorithm)**  
-- 🔌 **USB Monitoring & Logging Tool**  
-- ⛓️ **Blockchain-Based Evidence Integrity System (Ongoing)**
-- 🖥️ SOC Home Lab Setup - Wazuh SIEM 
+### SIEM & EDR
+Splunk · Microsoft Sentinel · Wazuh · CrowdStrike Falcon ·  
+Microsoft Defender for Endpoint · Sysmon · AlienVault
 
-📌 *All projects are designed around real SOC & DFIR use cases.*
+### Digital Forensics & Incident Response
+Autopsy · FTK · EnCase · Volatility · Redline ·  
+Sleuth Kit · Cellebrite · MOBILedit
 
+### Network & Security
+Wireshark · Nessus · Nmap · Burp Suite · Metasploit
+
+### Scripting & Platforms
+Python · Bash · PowerShell  
+Windows · Linux (Kali, Ubuntu, Arch) · macOS
+
+---
+
+## 📚 SECURITY FRAMEWORKS & STANDARDS
+
+- NIST Incident Response Lifecycle (SP 800-61)  
+- NIST SP 800-53 – Security & Privacy Controls  
+- ISO/IEC 27001 – Information Security Management Systems  
+- HIPAA – Healthcare Information Security & Privacy  
+- PCI-DSS – Payment Card Industry Data Security Standard  
+
+---
+
+## 🧪 PROJECTS (SOC & DFIR USE CASES)
+
+- **AES Encryption & Decryption Tool**  
+- **Metadata Eraser Tool (Data Leakage Prevention)**  
+- **Custom Hash Generator (Multi-Algorithm)**  
+- **USB Monitoring & Logging Tool**  
+- **Blockchain-Based Evidence Integrity System (Ongoing)**  
+- **SOC Home Lab – Wazuh SIEM**
+
+> All projects are designed around real-world SOC, DFIR, and compliance-driven scenarios.
 
 ---
 
 ## 📜 CERTIFICATIONS
-- 🛡️ Cisco – Junior Cybersecurity Analyst  
-- 🌐 Cisco – Introduction to Cybersecurity  
-- ☁️ IBM – Cloud Computing  
-- 🧠 D-Wave – Quantum Computing  
-- 🔍 Tata – Cybersecurity Analyst (Forage)
-- 🧮 Deloitte - Cyber Job Simulation (Forage)
-- 🚀 Telstra - Cybersecurity and Security Operations Center Simulation (Forage)
 
----
-
-## 🌱 CURRENT FOCUS
-- Advanced SIEM detection engineering  
-- SOC playbooks & IR workflows  
-- Windows & Linux DFIR labs  
-- Threat hunting & attack simulation analysis  
+- Cisco – Junior Cybersecurity Analyst  
+- Cisco – Introduction to Cybersecurity  
+- IBM – Cloud Computing  
+- D-Wave – Quantum Computing  
+- Tata – Cybersecurity Analyst (Forage)  
+- Deloitte – Cyber Job Simulation (Forage)  
+- Telstra – Cybersecurity & SOC Operations (Forage)
 
 ---
 
 ## 📫 CONNECT WITH ME
-- 💼 LinkedIn: https://linkedin.com/in/karangowda06   
+
+- 💼 LinkedIn: https://www.linkedin.com/in/karan-gowda-sy-16397527b/
+- 📂 GitHub: https://github.com/karangowda06  
 - ✉️ Email: karangowda0601@gmail.com  
 
 ---
 
-⚡ **I don’t chase alerts — I investigate them.**
+⚡ *Turning alerts into investigations. Evidence into insight.*
