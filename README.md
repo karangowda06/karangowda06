@@ -21,7 +21,7 @@ Actively seeking **SOC Analyst / Blue Team / DFIR roles**.
 
 **SDE and Security analyst Intern — Zefender Innovations Pvt. Ltd.**  
 Jan 2026 – Apr 2026 | Bengaluru  
-- SOC L1 alert monitoring and endpoint investigations
+- Security alert monitoring and endpoint investigations
   
 **Cybersecurity Intern — Infotact Solutions**  
 Nov 2025 – Feb 2026 | Bengaluru  
