@@ -19,6 +19,10 @@ Actively seeking **SOC Analyst / Blue Team / DFIR roles**.
 ---
 ## 🏢 EXPERIENCE
 
+**SDE and Security analyst Intern — Zefender Innovations Pvt. Ltd.**  
+Jan 2026 – Apr 2026 | Bengaluru  
+- SOC L1 alert monitoring and endpoint investigations
+  
 **Cybersecurity Intern — Infotact Solutions**  
 Nov 2025 – Feb 2026 | Bengaluru  
 - SIEM monitoring, alert triage, and log analysis  
@@ -28,9 +32,7 @@ Nov 2025 – Feb 2026 | Bengaluru
 May 2024 – Jun 2024 | Kerala  
 - Disk analysis, evidence handling, and forensic reporting  
 
-**SOC L1 & SDE Intern — Zefender Innovations Pvt. Ltd.**  
-Jan 2026 – Apr 2026 | Bengaluru  
-- SOC L1 alert monitoring and endpoint investigations
+
 
 ---
 
@@ -104,8 +106,8 @@ Windows · Linux (Kali, Ubuntu, Arch) · macOS
 - NIST SP 800-53 – Security & Privacy Controls  
 - ISO/IEC 27001 – Information Security Management Systems  
 - HIPAA – Healthcare Information Security & Privacy  
-- PCI-DSS – Payment Card Industry Data Security Standard  
-
+- PCI-DSS – Payment Card Industry Data Security Standard
+- DPDPA - Digital Personal Data Protection Act (Indian Standards)
 ---
 
 ## 🧪 PROJECTS (SOC & DFIR USE CASES)
