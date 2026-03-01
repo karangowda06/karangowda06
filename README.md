@@ -135,7 +135,7 @@ Windows | Linux (Kali, Ubuntu, Arch) | macOS
 
 ---
 
-## 🧪 Projects (Click & Explore 👇)
+## 🧪 Projects
 
 🔐 **AES Encryption & Decryption Tool**  
 Python-based secure file encryption utility  
