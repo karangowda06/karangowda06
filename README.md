@@ -1,146 +1,186 @@
-# 👋 Hi, I'm Karan Gowda
+# 👋 Hi, I'm Karan Gowda SY  
 
-🛡️ **SOC Analyst | DFIR | Blue Team | GRC-Aware**  
-🎓 **MSc Digital Forensics & Information Security**  
-📍 Bengaluru, India  
+🛡️ SOC Analyst | 🔍 DFIR | 🔵 Blue Team | 📋 GRC-Aware  
+🎓 MSc Digital Forensics & Information Security (SGPA: 8.583)  
+📍 Bengaluru, Karnataka, India  
+📞 +91 9591611876  
+✉️ karangowda0601@gmail.com  
 
-> *I don’t chase alerts — I investigate them.*
-
----
-
-## 🚨 PROFESSIONAL SUMMARY
-
-Entry-level **SOC Analyst and DFIR professional** with hands-on experience in **security monitoring, alert triage, endpoint investigations, and digital forensics**.  
-Strong foundation in **NIST-aligned incident response**, **SIEM operations**, and **forensic evidence handling** across Windows and Linux environments.  
-Possess **GRC awareness** to support **audit-ready incident handling, policy alignment, and compliance-driven security operations**.
-
-Actively seeking **SOC Analyst / Blue Team / DFIR roles**.
-
----
-## 🏢 EXPERIENCE
-
-**SDE and Security analyst Intern — Zefender Innovations Pvt. Ltd.**  
-Jan 2026 – Apr 2026 | Bengaluru  
-- Security alert monitoring and endpoint investigations
-  
-**Cybersecurity Intern — Infotact Solutions**  
-Nov 2025 – Feb 2026 | Bengaluru  
-- SIEM monitoring, alert triage, and log analysis  
-- Incident response documentation aligned with NIST  
-
-**Digital Forensics Intern — Kannur Police Station**  
-May 2024 – Jun 2024 | Kerala  
-- Disk analysis, evidence handling, and forensic reporting  
-
-
+> ⚡ *I don’t chase alerts — I investigate them.*
 
 ---
 
-## 🛡️ SOC SKILLS (Security Operations Center)
+## 🚀 About Me
 
-- SIEM monitoring and alert triage  
-- Event correlation and log analysis (Windows & Linux)  
-- Detection of suspicious and malicious activity  
-- Initial incident classification and prioritization  
-- False positive analysis and basic alert tuning  
-- Endpoint investigations using EDR telemetry  
-- IOC identification and validation  
-- Incident escalation following SOC playbooks  
-- Security incident documentation  
-- 24x7 SOC L1 operational workflows  
+I’m an entry-level Cybersecurity & Digital Forensics professional with hands-on experience in:
 
----
+🔎 Security monitoring & alert triage  
+🖥️ Endpoint investigations (EDR)  
+📊 SIEM log correlation & analysis  
+💾 Disk & memory forensics  
+📑 NIST-aligned incident response  
+🛡️ Threat detection & vulnerability assessment  
 
-## 🔍 DFIR SKILLS (Digital Forensics & Incident Response)
+💡 I focus on turning raw alerts into structured investigations and actionable insights.
 
-- Disk forensics and file system analysis  
-- Memory forensics and process investigation  
-- Windows event logs and forensic artifact analysis  
-- Linux artifact and timeline analysis  
-- Malware triage and post-incident analysis  
-- Digital evidence acquisition and preservation  
-- Hashing and integrity verification  
-- Chain of custody maintenance  
-- Forensic reporting for legal and internal use  
-- Post-incident root cause analysis  
+🎯 Actively seeking: **SOC Analyst | Blue Team | DFIR roles**
 
 ---
 
-## 🧩 GRC SKILLS (Governance, Risk & Compliance)
+## 🏢 Experience
 
-- Understanding of information security policies and procedures  
-- Familiarity with security frameworks and regulatory standards  
-- Incident response alignment with governance requirements  
-- Risk assessment fundamentals and control awareness  
-- Audit-ready incident and forensic documentation  
-- Compliance-driven logging and retention awareness  
-- Evidence handling aligned with legal and regulatory needs  
-- Supporting internal and external audits (SOC context)  
-- Translating technical findings into compliance language  
-- Basic security control mapping and gap awareness  
+### 🛡️ Software Development & Security Analyst Intern  
+**Zefender Innovations Pvt. Ltd.** | Bengaluru  
+📅 Jan 2026 – Apr 2026  
+
+- 🚨 Security alert monitoring & investigation  
+- 🔍 Endpoint analysis using EDR telemetry  
+- 📝 Incident documentation & reporting  
 
 ---
 
-## 🛠️ TOOLS & TECHNOLOGIES
+### 🔐 Cybersecurity Intern  
+**Infotact Solutions** | Bengaluru  
+📅 Nov 2025 – Feb 2026  
 
-### SIEM & EDR
-Splunk · Microsoft Sentinel · Wazuh · CrowdStrike Falcon ·  
-Microsoft Defender for Endpoint · Sysmon · AlienVault
-
-### Digital Forensics & Incident Response
-Autopsy · FTK · EnCase · Volatility · Redline ·  
-Sleuth Kit · Cellebrite · MOBILedit
-
-### Network & Security
-Wireshark · Nessus · Nmap · Burp Suite · Metasploit
-
-### Scripting & Platforms
-Python · Bash · PowerShell  
-Windows · Linux (Kali, Ubuntu, Arch) · macOS
+- 📊 SIEM monitoring (Splunk, Wazuh)  
+- ⚠️ Alert triage & log correlation  
+- 🌐 Firewall, IDS/IPS log analysis  
+- 📚 NIST-aligned IR documentation  
 
 ---
 
-## 📚 SECURITY FRAMEWORKS & STANDARDS
+### 🧪 Forensic Science Intern  
+**Kannur Police Station** | Kerala  
+📅 May 2024 – Jun 2024  
 
-- NIST Incident Response Lifecycle (SP 800-61)  
-- NIST SP 800-53 – Security & Privacy Controls  
-- ISO/IEC 27001 – Information Security Management Systems  
-- HIPAA – Healthcare Information Security & Privacy  
-- PCI-DSS – Payment Card Industry Data Security Standard
-- DPDPA - Digital Personal Data Protection Act (Indian Standards)
----
-
-## 🧪 PROJECTS (SOC & DFIR USE CASES)
-
-- **AES Encryption & Decryption Tool**  
-- **Metadata Eraser Tool (Data Leakage Prevention)**  
-- **Custom Hash Generator (Multi-Algorithm)**  
-- **USB Monitoring & Logging Tool**  
-- **Blockchain-Based Evidence Integrity System (Ongoing)**  
-- **SOC Home Lab – Wazuh SIEM**
-
-> All projects are designed around real-world SOC, DFIR, and compliance-driven scenarios.
+- 💽 Disk imaging & forensic acquisition  
+- 🔒 Evidence preservation & hashing  
+- 📜 Chain of custody documentation  
+- 📑 Forensic reporting  
 
 ---
 
-## 📜 CERTIFICATIONS
+## 🎓 Education
 
-- Cisco – Junior Cybersecurity Analyst  
-- Cisco – Introduction to Cybersecurity  
-- IBM – Cloud Computing  
-- D-Wave – Quantum Computing  
-- Tata – Cybersecurity Analyst (Forage)  
-- Deloitte – Cyber Job Simulation (Forage)  
-- Telstra – Cybersecurity & SOC Operations (Forage)
+🎓 **M.Sc. Digital Forensics & Information Security**  
+Jain School of Sciences, Bengaluru  
+SGPA: 8.583 | 2024 – Present  
 
----
-
-## 📫 CONNECT WITH ME
-
-- 💼 LinkedIn: https://www.linkedin.com/in/karan-gowda-sy-16397527b/
-- 📂 GitHub: https://github.com/karangowda06  
-- ✉️ Email: karangowda0601@gmail.com  
+🎓 **B.Sc. Forensic Science**  
+Jain School of Sciences, Bengaluru  
+CGPA: 7.265 | 2021 – 2024  
 
 ---
 
-⚡ *Turning alerts into investigations. Evidence into insight.*
+## 🛡️ SOC Skillset
+
+- 📊 SIEM Monitoring (Splunk, QRadar, Sentinel, Wazuh)
+- 🚨 Alert triage & false positive analysis
+- 🔎 Log correlation & event investigation
+- 🖥️ Windows & Linux log analysis
+- 🎯 IOC identification & validation
+- 🛠️ EDR investigations (CrowdStrike, Defender)
+- 📌 Incident classification & escalation
+- 📝 Security documentation
+
+---
+
+## 🔍 DFIR Capabilities
+
+- 💾 Disk forensics (FTK, EnCase, Autopsy)
+- 🧠 Memory forensics (Volatility, Redline)
+- 📂 Windows event log & artifact analysis
+- 🐧 Linux artifact & timeline investigation
+- 🦠 Malware triage
+- 🔐 Evidence acquisition & hashing
+- 📜 Chain of custody maintenance
+- 🧩 Root cause analysis
+
+---
+
+## 🧩 GRC & Compliance Awareness
+
+- 📘 NIST Incident Response Lifecycle (SP 800-61)
+- 📗 NIST 800-53 Controls
+- 📙 ISO/IEC 27001
+- 🏥 HIPAA
+- 💳 PCI-DSS
+- 🇮🇳 Digital Personal Data Protection Act
+
+✔️ Audit-ready documentation  
+✔️ Risk & control awareness  
+✔️ Compliance-driven logging practices  
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 📊 SIEM & EDR
+Splunk | Microsoft Sentinel | QRadar | Wazuh  
+CrowdStrike Falcon | Microsoft Defender | Sysmon | AlienVault  
+
+### 🔬 Digital Forensics
+Autopsy | FTK | EnCase | Volatility | Redline  
+Sleuth Kit | Cellebrite | MOBILedit  
+
+### 🌐 Network & Security
+Wireshark | Nessus | Nmap | Burp Suite | Metasploit  
+
+### 💻 Scripting
+Python | Bash | PowerShell  
+
+### 🖥️ Platforms
+Windows | Linux (Kali, Ubuntu, Arch) | macOS  
+
+---
+
+## 🧪 Projects (Click & Explore 👇)
+
+🔐 **AES Encryption & Decryption Tool**  
+Python-based secure file encryption utility  
+
+🧹 **Metadata Eraser**  
+Reduces data leakage by removing hidden metadata  
+
+🔎 **USB Monitoring & Logging Tool**  
+Tracks external device activity for endpoint security  
+
+⛓ **Blockchain-Based Evidence Integrity System (Ongoing)**  
+Tamper-resistant forensic evidence preservation  
+
+🖥️ **SOC Home Lab**  
+Wazuh + CrowdStrike simulated SOC environment  
+
+---
+
+## 📜 Certifications
+
+🏅 ISC2 – Certified in Cybersecurity  
+🏅 Cisco – Junior Cybersecurity Analyst Path  
+🏅 EC-Council – CHFI (Computer Hacking Forensic Investigator)
+🏅 Skill India – Security Analyst Certification  
+🏅 CRTOM – Red Team Leaders  
+🏅 DevsIndia – Advanced Cybersecurity Industry Professional  
+🏅 IBM – Cloud Computing  
+🏅 D-Wave – Quantum Computing  
+
+---
+
+## 🌍 Languages
+
+English | Kannada | Hindi | Telugu | Tamil  
+
+---
+
+## 📫 Let’s Connect
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/karan-gowda-sy-16397527b/
+
+📂 GitHub:  
+https://github.com/karangowda06  
+
+---
+
+🔥 *Turning alerts into investigations. Evidence into insight.*  
