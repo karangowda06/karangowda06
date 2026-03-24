@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karan Gowda SY  
 
-🛡️ SOC Analyst | 🔍 DFIR | 🔵 Blue Team | 📋 GRC-Aware  
+🛡️ Security Analyst | 🔍 DFIR | 🔵 Blue Team | 📋 GRC-Aware  
 🎓 MSc Digital Forensics & Information Security (SGPA: 8.583)  
 📍 Bengaluru, Karnataka, India  
 📞 +91 9591611876  
